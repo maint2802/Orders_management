@@ -226,6 +226,8 @@ footer {
 }
 #contact.container-fluid{
   padding-bottom: 10px;
+  width: 2200px;
+  max-width: 100%;
 } 
 
 #contact button{
