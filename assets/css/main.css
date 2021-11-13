@@ -140,6 +140,8 @@ h2{
 
 .container-fluid{
   padding: 80px 120px;
+  width: 2200px;
+  max-width: 100%;
 }
 
 /* partner----------------------------- */
